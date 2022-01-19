@@ -2167,3 +2167,30 @@ blockquote p {
   min-height: 300px;
   margin: 5px 0;
 }
+.sh-btn.sh-btn-border.dark.sh-btn-small.sh-btn-round.margin {
+  background: #86c33a;
+  padding: 10px 30px;
+  color: white;
+  border-radius: 10px;
+  margin: 0 10px 0 0;
+}
+.sh-btn.sh-btn-border.dark.sh-btn-small.sh-btn-round.margin:hover {
+  background: #252d39;
+  padding: 10px 30px;
+  color: white;
+  border-radius: 10px;
+  margin: 0 10px 0 0;
+}
+.product p,
+.paragraph {
+  font-weight: 400;
+  color: #3f4246;
+  font-size: 18px;
+  line-height: 2;
+  font-family: "Open Sans", sans-serif;
+}
+.product .product-title-main a {
+  font-size: 2rem;
+  font-weight: bold;
+  color: black;
+}
