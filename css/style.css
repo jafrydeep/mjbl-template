@@ -2194,3 +2194,6 @@ blockquote p {
   font-weight: bold;
   color: black;
 }
+.otherLubricant .img-responsive {
+  max-width: 300px;
+}
