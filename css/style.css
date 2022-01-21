@@ -2197,3 +2197,7 @@ blockquote p {
 .otherLubricant .img-responsive {
   max-width: 300px;
 }
+.carOils img.img-responsive {
+  width: 200px;
+  height: 300px;
+}
