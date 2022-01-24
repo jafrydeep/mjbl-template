@@ -1435,6 +1435,7 @@ textarea.form-control-sm {
 .team-member-img img {
   position: relative;
   z-index: 2;
+  height: 400px;
 }
 .team-member-img::before {
   position: absolute;
